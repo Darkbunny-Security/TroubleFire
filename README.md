@@ -1,7 +1,7 @@
   -----------------------------------------------------
-  Code by: Agent-smith; Agent-2k40; 
+  # DarkBunny
 
-  - DarkBunny
+  Code by: Agent-smith; Agent-2k40; 
   -----------------------------------------------------
 
   - Programa desenvolvido para Kali (Por enquanto)
